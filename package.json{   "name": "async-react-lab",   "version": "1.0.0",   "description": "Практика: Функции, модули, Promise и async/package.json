@@ -1,0 +1,13 @@
+{
+  "name": "async-react-lab",
+  "version": "1.0.0",
+  "description": "Практика: Функции, модули, Promise и async/await",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node async-lab-verify.js"
+  },
+  "keywords": ["esm", "promise", "async", "await", "abortcontroller"],
+  "license": "MIT"
+}
